@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**saeid-a/saeid-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**said-a/saeid-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi ! 👋🏻
+# Hi! 👋🏻
 
 
 **GitHub Stats**
 
-![Mohammad's github stats](https://github-readme-stats.vercel.app/api?username=saeid-a&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db)
+![Saeid's github stats](https://github-readme-stats.vercel.app/api?username=saeid-a&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeid-a&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)
